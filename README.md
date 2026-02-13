@@ -24,18 +24,3 @@ Here are some ideas to get you started:
 ##### Connect with Me
 ![https://www.instagram.com/ni_cho968](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/nicho-obama](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-
-##### GitHub Stats
-![Nicho's GitHub stats](https://github-readme-stats.vercel.app/api?username=nichoObama&show_icons=true&theme=gruvbox)
-
-<p align="left">Play with Me</p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nichoObama/nichoObama/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nichoObama/nichoObama/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nichoObama/nichoObama/output/pacman-contribution-graph.svg">
-</picture>
-
-###
